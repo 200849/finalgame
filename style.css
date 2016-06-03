@@ -1,0 +1,121 @@
+#div{
+  width:10000px;
+  height:400px;
+  margin-top:130px;
+  position:absolute;
+
+}
+#run{
+    margin-left: 396px;
+    font-size: 100px;
+}
+#line{
+    width:10000px;
+    height:10px;
+    background-color: gray;
+    position:absolute;
+    margin-top:530px;
+}
+#title{
+  height:100px;
+  width:200px;
+  font-size:90px;
+  margin-left:45%;
+  margin-top:100px;
+  text-align:center;
+}
+#start{
+ margin-left:45.5%; 
+  margin-top:200px;
+  width:200px;
+  height:91px;
+  text-align: center;
+  font-size: 20px;
+}
+#character{
+  margin-top:282px;
+  position: absolute;
+  background-image: url("img/character.png");
+  width: 45px;
+  height: 120px;
+}
+#instructions{
+    text-align: center;
+    font-family: 'Amatic SC', serif;
+    font-size:50px;
+}
+#go{
+    margin-left: 43%;
+    margin-top: 100px;
+    
+}
+#arrowkeys{
+    background-image: url('img/arrows-1.gif');
+    width:500px;
+    height:270px;
+    margin-left: 27%;
+}
+#explanation{
+    margin-left: 10%;
+}
+#finishline{
+    background-image: url('img/finishline.png');
+    height:60px; 
+    width:108px;
+    margin-top: 335px;
+    margin-left:9892px;
+}
+.allSpikes{
+    width: 108px;
+    height:41px;
+    margin-top:359px;
+    background-image: url('img/spikes.png');
+    position:absolute;
+}
+#spikes1{
+    margin-bottom:-41px;
+    margin-left: 500px;
+}
+#spikes2{
+margin-left:1000px;
+margin-bottom:-41px;
+}
+#spikes3{
+margin-left:1500px;
+}
+#spikes4{
+margin-left:2000px;
+}
+#spikes5{
+margin-left:2600px;
+}
+#spikes6{
+margin-left:3479px;
+}
+#spikes7{
+margin-left:4000px;
+}
+#spikes8{
+margin-left:4978px;
+}
+#spikes9{
+margin-left:5769px;
+}
+#spikes10{
+margin-left:6139px;
+}
+#spikes11{
+margin-left:7136px;
+}
+#spikes12{
+margin-left:7876px;
+}
+#spikes13{
+margin-left:8679px;
+}
+#spikes14{
+margin-left:9236px;
+}
+#spikes15{
+margin-left:9578px;
+}
