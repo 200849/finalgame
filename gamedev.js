@@ -77,7 +77,7 @@ var character=$("#character")
   window.setInterval(function() {
     $.each($('.allSpikes'), function() {
         if (collision($('#character'), $(this))) { //another if statement. If #myCar DOES hit something, the following will happen:
-       $('#run').hide();
+       window.location.replace("lose.html")
       }
     });
   }, 200);
